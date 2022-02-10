@@ -83,7 +83,7 @@ main {
     width: 70%;
     padding: 20px;
     border-radius: 15px;
-    box-shadow: 2px 2px #333, -2px -2px 1px #333;
+    box-shadow: 2px 2px 5px #333, -2px -2px 5px #333;
 
 }
 
@@ -124,6 +124,7 @@ h2 {
 h4 {
     color: #C55394;
     font-family: 'Courgette', cursive;
+    margin-top: ;
 }
 
 .cartetotal {
@@ -137,11 +138,9 @@ h4 {
 .texte {
     display: flex;
     justify-content: center;
-    margin-top: 2%;
 }
 .information {
-    display: inline-block;
-    margin: 10%;
+    margin-left: 20px;
 }
 /*section footer*/
 
