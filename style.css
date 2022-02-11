@@ -109,7 +109,7 @@ figcaption{
     padding: 5px;
 }
 
-figure:hover img{
+figure:hover{
     transform: scale(1.2);
 }
 p{
