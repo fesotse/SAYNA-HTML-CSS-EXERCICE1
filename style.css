@@ -86,11 +86,12 @@ main {
     box-shadow: 2px 2px 5px #333, -2px -2px 5px #333;
 
 }
-
+/* photo*/
 .photo{
     display: flex;
     flex-direction: row;
 }
+/*figure*/
 figure {
     margin: 10px;
 }
@@ -108,7 +109,7 @@ figcaption{
     justify-content: center;
     padding: 5px;
 }
-
+/*figure hover with captation*/
 figure:hover{
     transform: scale(1.2);
 }
@@ -119,7 +120,7 @@ p{
     margin-right: 15px;
     justify-content: center;
 }
-
+/* titres*/
 h2 {
     color:#EB43A3;
     font-family: 'Courgette', cursive;
@@ -130,7 +131,7 @@ h4 {
     color: #C55394;
     font-family: 'Courgette', cursive;
 }
-
+/* reglage carte*/
 .cartetotal {
     display: flex;
 }
@@ -139,6 +140,7 @@ h4 {
     justify-content: flex-start;
     width: 50%;
 }
+/* texte*/
 .texte {
     display: flex;
     justify-content: center;
